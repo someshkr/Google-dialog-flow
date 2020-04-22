@@ -1,0 +1,5 @@
+2020-04-21/14:26:24		User Says: What is corona cases in Odisha
+2020-04-21/14:26:25		Bot Says: In Odisha 
+ Confirmed Case: 61, Active Cases: 36, Deaths: 1, recovered: 24.
+In India 
+ Confirmed Case: 15722, Active Cases: 12738, Deaths: 521, recovered: 2463

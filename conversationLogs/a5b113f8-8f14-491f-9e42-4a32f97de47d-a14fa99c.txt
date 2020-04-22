@@ -1,0 +1,5 @@
+2020-04-19/16:59:34		User Says: Goa
+2020-04-19/16:59:34		Bot Says: In Goa 
+ Confirmed Case: 7, Active Cases: 1, Deaths: 0, recovered: 6.
+In India 
+ Confirmed Case: 15722, Active Cases: 12738, Deaths: 521, recovered: 2463

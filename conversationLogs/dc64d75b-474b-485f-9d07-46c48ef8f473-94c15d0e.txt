@@ -1,0 +1,5 @@
+2020-04-21/15:16:38		User Says: Telengana
+2020-04-21/15:16:39		Bot Says: In Telangana 
+ Confirmed Case: 809, Active Cases: 605, Deaths: 18, recovered: 186.
+In India 
+ Confirmed Case: 15722, Active Cases: 12738, Deaths: 521, recovered: 2463

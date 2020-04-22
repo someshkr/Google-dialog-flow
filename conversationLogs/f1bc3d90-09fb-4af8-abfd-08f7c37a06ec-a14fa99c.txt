@@ -1,0 +1,5 @@
+2020-04-20/10:33:41		User Says: Maharashtra
+2020-04-20/10:33:42		Bot Says: In Maharashtra 
+ Confirmed Case: 3648, Active Cases: 3072, Deaths: 211, recovered: 365.
+In India 
+ Confirmed Case: 15722, Active Cases: 12738, Deaths: 521, recovered: 2463
